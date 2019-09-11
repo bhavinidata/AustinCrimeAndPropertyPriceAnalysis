@@ -1,0 +1,74 @@
+ZIP Code 73301	Unique	Travis	0	512
+ZIP Code 73344	Unique	Travis	0	512
+ZIP Code 78681	Standard	Williamson	50,606	512
+ZIP Code 78701	Standard	Travis	6,841	512 / 737
+ZIP Code 78702	Standard	Travis	21,334	512 / 737
+ZIP Code 78703	Standard	Travis	19,690	512
+ZIP Code 78704	Standard	Travis	42,117	512 / 737
+ZIP Code 78705	Standard	Travis	31,340	512 / 737
+ZIP Code 78708	P.O. Box	Travis	0	512
+ZIP Code 78709	P.O. Box	Travis	0	512
+ZIP Code 78710	Standard	Travis	0	512 / 737
+ZIP Code 78711	P.O. Box	Travis	0	512
+ZIP Code 78712	Standard	Travis	860	512 / 737
+ZIP Code 78713	P.O. Box	Travis	0	512
+ZIP Code 78714	P.O. Box	Travis	0	512
+ZIP Code 78715	P.O. Box	Travis	0	512
+ZIP Code 78716	P.O. Box	Travis	0	512
+ZIP Code 78717	Standard	Williamson	22,538	512
+ZIP Code 78718	P.O. Box	Travis	0	512
+ZIP Code 78719	Standard	Travis	1,764	512
+ZIP Code 78720	P.O. Box	Travis	0	512
+ZIP Code 78721	Standard	Travis	11,425	512
+ZIP Code 78722	Standard	Travis	5,901	512 / 737
+ZIP Code 78723	Standard	Travis	28,330	512 / 737
+ZIP Code 78724	Standard	Travis	21,696	512
+ZIP Code 78725	Standard	Travis	6,083	512 / 737
+ZIP Code 78726	Standard	Travis	13,122	512
+ZIP Code 78727	Standard	Travis	26,689	512 / 737
+ZIP Code 78728	Standard	Travis	20,299	512 / 737
+ZIP Code 78729	Standard	Williamson	27,108	512
+ZIP Code 78730	Standard	Travis	7,955	512
+ZIP Code 78731	Standard	Travis	24,614	512
+ZIP Code 78732	Standard	Travis	14,060	512
+ZIP Code 78733	Standard	Travis	8,762	512
+ZIP Code 78734	Standard	Travis	17,655	512
+ZIP Code 78735	Standard	Travis	16,131	512
+ZIP Code 78736	Standard	Travis	6,946	512
+ZIP Code 78737	Standard	Hays	12,081	512 / 737
+ZIP Code 78738	Standard	Travis	12,134	512
+ZIP Code 78739	Standard	Travis	16,792	512
+ZIP Code 78741	Standard	Travis	44,935	512 / 737
+ZIP Code 78742	Standard	Travis	820	512 / 737
+ZIP Code 78744	Standard	Travis	42,820	512 / 737
+ZIP Code 78745	Standard	Travis	55,614	512
+ZIP Code 78746	Standard	Travis	26,928	512
+ZIP Code 78747	Standard	Travis	14,808	512
+ZIP Code 78748	Standard	Travis	40,651	512
+ZIP Code 78749	Standard	Travis	34,449	512
+ZIP Code 78750	Standard	Travis	26,814	512
+ZIP Code 78751	Standard	Travis	14,385	512 / 737
+ZIP Code 78752	Standard	Travis	18,064	512 / 737
+ZIP Code 78753	Standard	Travis	49,301	512
+ZIP Code 78754	Standard	Travis	15,036	512
+ZIP Code 78755	P.O. Box	Travis	0	512
+ZIP Code 78756	Standard	Travis	7,194	512 / 737
+ZIP Code 78757	Standard	Travis	21,310	512
+ZIP Code 78758	Standard	Travis	44,072	512 / 737
+ZIP Code 78759	Standard	Travis	38,891	512 / 737
+ZIP Code 78760	P.O. Box	Travis	0	512
+ZIP Code 78761	P.O. Box	Travis	0	512
+ZIP Code 78762	P.O. Box	Travis	0	512
+ZIP Code 78763	P.O. Box	Travis	0	512
+ZIP Code 78764	P.O. Box	Travis	0	512
+ZIP Code 78765	P.O. Box	Travis	0	512
+ZIP Code 78766	P.O. Box	Travis	0	512
+ZIP Code 78767	P.O. Box	Travis	0	512
+ZIP Code 78768	P.O. Box	Travis	0	512
+ZIP Code 78772	Unique	Travis	0	512
+ZIP Code 78773	Unique	Travis	0	512
+ZIP Code 78774	Unique	Travis	0	512
+ZIP Code 78778	Unique	Travis	0	512
+ZIP Code 78779	Unique	Travis	0	512
+ZIP Code 78783	Unique	Travis	0	512
+ZIP Code 78799	Standard	Travis	0	512
