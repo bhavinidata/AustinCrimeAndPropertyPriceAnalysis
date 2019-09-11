@@ -64,6 +64,7 @@ Austin crime relationship to home prices by zipcodes 2015-2018 along with sepera
 
 
 * Zipcode with five highest and five lowest number of crime per 1000 population over four years 2015 to 2018.
+
 | ZipCode | No Of Crime per 1000 population |
 | ------- | ----------- |
 | 78728 | 2 |
@@ -76,7 +77,9 @@ Austin crime relationship to home prices by zipcodes 2015-2018 along with sepera
 | 78742 | 298 |
 | 78719 | 373 |
 | 78701 | 1072 |
+
 * Zipcode with 5 highest and 5 lowest % change in crime over four years 2015 to 2018.
+
 | ZipCode | %Change in Crime (per 1000 Population) |
 | ------- | ----------- |  
 | 78739 | -42.22 |
@@ -89,6 +92,7 @@ Austin crime relationship to home prices by zipcodes 2015-2018 along with sepera
 | 78717 | 29.36 |
 | 78730 | 62.77 |
 | 78742 | 111.69 |
+
 * %Change in Violent Crime is getting reduced while %Change in Property Crime is getting increased over the four year from 2015 to 2018.
 * From 2017 to 2018, Violent crime has been decreased by 5%, while Property crime has been increased by 7%.
 * February is the month with lowest crimes. October is the month with comparatively high crime based on four year total crime.
