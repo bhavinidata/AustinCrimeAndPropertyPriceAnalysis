@@ -67,11 +67,11 @@ Austin crime relationship to home prices by zipcodes 2015-2018 along with sepera
 
 | ZipCode | No Of Crime per 1000 population |
 | ------- | ----------- |
-| 78728 | 2 |
 | 78730 | 25 |
 | 78725 | 26 |
 | 78739 | 28 |
 | 78717 | 43 |
+| 78747 | 46 |
 | 78723 | 241 |
 | 78702 | 289 |
 | 78742 | 298 |
