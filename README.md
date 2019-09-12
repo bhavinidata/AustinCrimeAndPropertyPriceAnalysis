@@ -31,7 +31,7 @@ Austin crime relationship to home prices by zipcodes 2015-2018 along with sepera
 2. Clean the datasets. Keep only data between year 2015 to 2018.
 3. Breakdown & Analyze Data Sets.
 4. Property Analysis
-    * Plot the map showing %change increase in median home price?
+    * Plot the map showing %change increase in median home price.
 5. Populatin Anlysis
     * Plot the map showing change in population from 2015 to 2018 by zipcode.
 6. Crime Analysis
